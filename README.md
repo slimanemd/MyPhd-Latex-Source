@@ -1,2 +1,2 @@
-# myphp
-my php latex source
+# my Phd
+my Phd latex source
